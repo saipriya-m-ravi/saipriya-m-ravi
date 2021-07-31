@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saipriya M Ravi, a software professional.
-- 👀 I’m proficient in Python and currently learning Java.
-- 💞️ I’m looking to contribute to Python/Java projects. I'm a newbie to Machine Learning. I would like to work on ML projects since I believe that the best way to learn something is by doing it. 
+- 👀 Proficient in Python and currently learning Java.
+- 💞️ Looking forward to contribute to Python/Java projects. I'm a newbie to Machine Learning. I would like to work on ML projects as I believe that the best way to learn something is by doing it. 
 - 📫 I'm reachable via saipriya.tcr@gmail.com
 
 <!---
