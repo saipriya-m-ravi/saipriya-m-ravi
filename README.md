@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Saipriya M Ravi, a software professional.
-- 👀 Proficient in Python.
+- 👋 I’m Saipriya M R.
+- 🌟Excited ML Enthusiast Seeking Collaborations!
+- 🌟 Eager to leverage my newfound expertise in Machine Learning to tackle complex challenges and drive impactful solutions.
 - 📫 I'm reachable via saipriya.tcr@gmail.com
 
 <!---
