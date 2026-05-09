@@ -1,4 +1,4 @@
-- 👋 Ex-Automation Engineer | Python Backend Developer | GenAI Explorer
+- 👋 Ex-Automation Engineer | Python Backend Developer | GenAI Engineer
 - 📫 Reachable via saipriya.tcr@gmail.com
 
 <!---
